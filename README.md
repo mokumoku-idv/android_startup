@@ -6,6 +6,9 @@ Androidアプリ開発に最適化した統合開発環境(IDE)。
 統合開発環境っていうのは、Eclipseとかその部類。
 
 ## インストール
+以下の記事がとても参考になった。  
+[初心者でもできる！「AndroidStudio」を使ったAndroidアプリ開発環境の構築方法](http://techacademy.jp/magazine/5238)
+
 1. [公式サイト](http://developer.android.com/sdk/index.html)からAndroidStudioをダウンロード
 2. 促されるままに進めていく
 3. **Setup Wizard - Downloading Component** という画面が表示されたら、Finishをクリックしてインストール完了
@@ -26,3 +29,5 @@ File > Project Structure > JDK location
 ```
 /Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home
 ```
+プロジェクト作成完了!  
+とりあえずここまで。
